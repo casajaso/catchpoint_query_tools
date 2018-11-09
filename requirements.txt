@@ -1,0 +1,7 @@
+DateTime==4.1.1
+pytz==2016.6.1
+requests==2.11.1
+zope.interface==4.3.2
+numpy==1.15.4
+argparse==1.2.1
+# -e git+https://github.com/jasonarewhy/catchpoint-api-python.git#egg=catchpoint-api-pythone
