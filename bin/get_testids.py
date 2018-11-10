@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
-import lib.catchpoint at catchpoint
 import argparse
 import sys
 import numpy
+import lib.catchpoint as catchpoint
 
 def get_args(argv):
     parser = argparse.ArgumentParser(description='calls catchpoint api returning sorted array of test_ids grouped by type')
