@@ -7,7 +7,7 @@ from setuptools import setup
 VERSION = '0.1.1'
 
 # URL to the repository on Github.
-REPO_URL = 'WILL_ADD_LATER'
+REPO_URL = 'https://github.com/casajaso/catchpoint_query_tools.git'
 
 # Github will generate a tarball as long as you tag your releases, so don't
 # forget to tag!
