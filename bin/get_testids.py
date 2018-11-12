@@ -3,7 +3,7 @@
 import argparse
 import sys
 import numpy
-import lib.catchpoint as catchpoint
+import modules.catchpoint as catchpoint
 
 def get_args(argv):
     parser = argparse.ArgumentParser(description='calls catchpoint api returning sorted array of test_ids grouped by type')
