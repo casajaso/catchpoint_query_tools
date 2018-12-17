@@ -20,7 +20,7 @@ setup(
     author_email='jason.c.casas@gmail.com',
     url=REPO_URL,
     download_url=DOWNLOAD_URL,
-    license='Getty Images - INTERNAL USE',
+    license='',
     classifiers=[
         'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Programming Language :: Python',
