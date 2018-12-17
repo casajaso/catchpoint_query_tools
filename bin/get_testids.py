@@ -64,7 +64,7 @@ def main(argv):
             sys.stdout.write('test_ids: {}\n\n'.format(test_ids))
     sys.stdout.flush()
 
-#functionalize arg parser add argparse string check to unit test
+#functionalize arg parser add argparse string check to unit test (placeholder for more definate unit testing)
         
 if __name__ == '__main__': #main and argument parsing magic returns: "test_type: [name]  test_ids: [test_id(s), ..]"
     main(sys.argv[1:])
